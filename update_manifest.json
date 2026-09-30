@@ -1,6 +1,6 @@
 {
-  "version": "2.0.2",
-  "display_version": "2.0.2",
-  "download_url": "https://github.com/swelgem-ctrl/PrayerGem/releases/latest",
-  "notes": "PrayerGem Pro v2.0.2"
+  "version": "2.0.4",
+  "display_version": "2.0.4",
+  "download_url": "https://github.com/swelgem-ctrl/PrayerGem/releases/latest/download/PrayerGemPro_v2.0.4_Setup.exe",
+  "notes": "PrayerGem Pro v2.0.4 - stable Windows release with offline prayer times, Arabic/English localization, Adhan alerts, Qibla, calendar, Mini Mode, backup/restore, and update checking."
 }
